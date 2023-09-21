@@ -51,9 +51,10 @@ img{
 }
 a{
     color: rgb(0, 151, 143);
-    font-family: sans-serif;
+    font-family: 'comfortaa';
     text-decoration: none;
-    font-size: 12px;
+    font-size: 11px;
+    font-weight: 400;
 }
 .descrizione{
     font-size: 10px;
@@ -62,5 +63,6 @@ a{
     font-family: 'comfortaa';
     font-weight: 400;
 }
+
 
 
