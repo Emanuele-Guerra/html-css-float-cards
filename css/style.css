@@ -1,0 +1,51 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: 'pacifico';
+    font-size: 50px;
+    color: deeppink;
+}
+.subtitle{
+    text-align: center;
+    font-family: 'indie flower';
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+.container{
+    margin: auto;
+    width: 1000px;
+}
+.colonna{
+    height: 80px;
+    width: 270px;
+    margin: 10px;
+    background-color: rgb(0, 0, 0);
+    float: left;
+    color: white;
+}
+
+img{
+    height: 80px;
+    float: left;
+    margin-right: 20px;
+}
+.nome{
+    margin: 5px;
+    font-family: 'pacifico';
+
+}
+.descrizione{
+    margin: 5px;
+    
+}
+a{
+    
+}
+
